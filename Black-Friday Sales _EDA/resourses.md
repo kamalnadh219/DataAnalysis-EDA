@@ -1,0 +1,1 @@
+<h3>Analyzing a Black Friday sales dataset involves examining various aspects of consumer behavior, purchasing patterns, product preferences, and market trends during the Black Friday shopping event.</h3>
