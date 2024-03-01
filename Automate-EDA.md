@@ -1,0 +1,1 @@
+<h2>I specialize in automating Exploratory Data Analysis (EDA) processes using cutting-edge tools like pandas profiling, Sweetviz, Dtale, dataprep, and pandas_visual_analysis libraries. With a strong background in data science and a knack for simplifying complex datasets, I thrive on uncovering hidden patterns and trends that drive informed decision-making.</h2
