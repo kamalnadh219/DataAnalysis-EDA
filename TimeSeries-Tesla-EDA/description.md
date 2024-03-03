@@ -1,0 +1,3 @@
+   
+Exploratory Data Analysis (EDA) of Tesla shares involves scrutinizing trends, outliers, and patterns. Assessing trends unveils long-term movements, crucial for forecasting. Detecting seasonality helps understand periodic fluctuations, while outlier identification reveals anomalies or pivotal events. Autocorrelation analysis illuminates temporal dependencies, guiding lagged relationship exploration. Stationarity evaluation ensures stable statistical properties, essential for modeling. Data transformation may be necessary to stabilize variance or achieve stationarity. Finally, correlation analysis unveils connections with other variables. EDA empowers informed decision-making in trading or investment strategies for Tesla shares.
+
